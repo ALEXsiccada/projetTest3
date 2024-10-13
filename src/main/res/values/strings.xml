@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test3</string>
+    <string name="qtt1">qtt1\n</string>
+    <string name="qtt2">qtt2\n</string>
+    <string name="qtt3">qtt3</string>
+    <string name="qtt4">qtt4</string>
+    <string name="qud1">qud1</string>
+    <string name="qud2">qud2\n</string>
+    <string name="qud3">qud3</string>
+    <string name="qud4">qud4</string>
+</resources>
